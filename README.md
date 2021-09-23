@@ -73,4 +73,4 @@ sudo systemctl enable grafana-server.service
 
 - Go to Configuration > Data Sources > Add Data Source > CloudWatch
 
-![alt text]()
+![alt text](https://github.com/ioanan11/SRE_grafana/blob/main/Screenshot%202021-09-23%20124455.png)
